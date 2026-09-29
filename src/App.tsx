@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from "react";
+﻿import { useEffect, useRef, useState } from "react";
 import { ArrowUpRight, ArrowDown, Menu, X, Download, Copy, Check } from "lucide-react";
 import { profile, nav } from "./data/content";
 import { ProjectExplorer } from "./components/ProjectExplorer";
@@ -48,7 +48,7 @@ function App() {
     <a className="skip-link" href="#main">Skip to content</a>
     <header className="site-header">
       <nav className="shell navigation" aria-label="Primary">
-        <a className="wordmark" href="#top" aria-label="Lina El Yacoubi, back to top">lina<span>✳</span></a>
+        <a className="wordmark" href="#top" aria-label="Lina El Yacoubi, back to top">lina<span></span></a>
         <div className="desktop-nav">
           {nav.map(n => <a key={n.href} href={n.href} aria-current={active === n.href.slice(1) ? "location" : undefined}>{n.label}</a>)}
           <a className="resume-link" href={profile.resumeFile} download>Resume <Download size={15} /></a>
