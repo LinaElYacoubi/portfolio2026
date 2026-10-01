@@ -9,7 +9,7 @@ uOttawa: internal applications, forms, evaluation workflows, cross-layer debuggi
 Removed unsupported join-error diagnosis, print-layout specifics, motivations, pride claims and forced jokes. No invented uOttawa impact figure.
 
 ## Project sources and individual contributions
-Original portfolio: https://linaelyacou.netlify.app/
+Original portfolio: https://portfoliolinaelyacoubi.netlify.app/
 - Weather Dashboard: https://github.com/LinaElYacoubi/Dashboard. Package manifest verifies React, Recharts and Bootstrap. Lina confirmed solo authorship in this session.
 - Tutor+: https://github.com/alaekabir/Site-de-Services. Manifest verifies React and React Bootstrap. Lina and Alae are contributors. Lina's commits ce9219ff73660fd7bb7c4bc1e80f2fc3a043af22 and 572d4a1eb73260c78017901374830abcbbd61d2c add the booking interface, booking confirmation and profile confirmation pages. These specific contributions are credited.
 - Memory Card Game: https://github.com/alaekabir/Jeu-de-Memoire. Manifest verifies React and Bootstrap. Lina and Alae are contributors. Lina's commit 8a71a4f4da2c4a11ab6f619d09931b11aedee441 adds difficulty/theme selection and passes selections into the game. This specific contribution is credited.
