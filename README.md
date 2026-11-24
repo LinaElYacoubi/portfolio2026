@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lina El Yacoubi: portfolio
 
 My portfolio site, in a palette I call **Cherry Chrome**: deep plum, cherry red, blush, lilac and chrome.
