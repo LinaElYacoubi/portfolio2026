@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><text x="16" y="22.5" text-anchor="middle" font-family="Arial Black, Arial, Helvetica, sans-serif" font-weight="900" font-size="17" letter-spacing="-1" fill="#852D46">LY</text></svg>
-=======
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#FBF6F1"/>
-  <text x="32" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="600" fill="#7A2039" text-anchor="middle">LY</text>
-</svg>
->>>>>>> 087cf6fe8bbda4100b2b3fbbd35750ce2f0635b6

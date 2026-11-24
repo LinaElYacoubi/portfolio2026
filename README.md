@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lina El Yacoubi: portfolio
 
 My portfolio site, in a palette I call **Cherry Chrome**: deep plum, cherry red, blush, lilac and chrome.
@@ -60,6 +59,3 @@ assets-src/              original images (not deployed)
 ## Easter eggs
 
 Type `squishy`. Try the Konami code. Click empty space. Open the console.
-=======
-# Lina El Yacoubi — portfolio
->>>>>>> 087cf6fe8bbda4100b2b3fbbd35750ce2f0635b6
